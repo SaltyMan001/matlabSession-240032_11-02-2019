@@ -4,7 +4,7 @@ Matlab session Monday 11-02-2019
 
 P1.1-Interpolation 1D. Session's source code. 
 
-You can find the session's guide ---together with other extra material files---at Toni Susin's 'Numerical Factory', 
+You can find the session's guide ---together with other extra material files---at prof.Toni Susin's 'Numerical Factory', 
 
 https://numfactory.upc.edu/web/FiniteElements.html
 
